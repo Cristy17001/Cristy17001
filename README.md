@@ -7,6 +7,16 @@
 
 #
 
+### Some of my previous work:
+
+<!-- BEGIN YOUTUBE-CARDS -->
+[![OPT Current Progress](https://ytcards.demolab.com/?id=yWOL7XpkVGY&title=OPT+Current+Progress+by+Cristiano+Rocha&lang=pt&timestamp=1710538911&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=50 "OPT Current Progress")](https://youtu.be/yWOL7XpkVGY)
+
+[![TaskFlow Final](https://ytcards.demolab.com/?id=gDbPiDzzqBQ&title=TaskFlow+Final+by+Cristiano+Rocha&lang=pt&timestamp=1710538911&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=50 "TaskFlow Final")](https://youtu.be/gDbPiDzzqBQ)
+<!-- END YOUTUBE-CARDS -->
+
+#
+
 <div>
     <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=cristy17001&show_icons=true&locale=en" alt="cristy17001" /></p>
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristy17001&show_icons=true&locale=en&layout=compact" alt="cristy17001" /></p>
