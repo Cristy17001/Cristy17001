@@ -1,8 +1,8 @@
 <h1 style="margin-bottom: 0;" align="left">👋 Hello there! I'm Cristiano Rocha</h1>
 <p style="color: #999FAC; font-weight: 600;">A Undergrad student passionate for frontend development!</p>
 
-- 🔭 I’m currently doing an internship on **[OPT - Optimização e Planeamento de Transportes S.A.](https://www.opt.pt/)**
-- 🌱 I’m currently learning **Nextjs and React**
+- 🔭 I’m currently working on **[OPT - Optimização e Planeamento de Transportes S.A.](https://www.opt.pt/)** as junior software developer
+- 🌱 Working with **Nextjs and React**
 - 📫 How to reach me **cristianorocha170@gmail.com**
 
 #
