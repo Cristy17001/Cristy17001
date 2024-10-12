@@ -1,5 +1,5 @@
 <h1 style="margin-bottom: 0;" align="left">👋 Hello there! I'm Cristiano Rocha</h1>
-<p style="color: #999FAC; font-weight: 600;">A Undergrad student passionate for frontend development!</p>
+<p style="color: #999FAC; font-weight: 600;">A master's student in AI at FEUP/FCUP, passionate about frontend development!</p>
 
 - 🔭 I’m currently working on **[OPT - Optimização e Planeamento de Transportes S.A.](https://www.opt.pt/)** as junior software developer
 - 🌱 Working with **Nextjs and React**
